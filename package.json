@@ -1,6 +1,6 @@
 {
   "name": "domweaver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vanilla JavaScript Class component for modular DOM element creation.",
   "type": "module",
   "main": "element-blueprint.js",
